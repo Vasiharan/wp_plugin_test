@@ -1,0 +1,17 @@
+{
+    "name": "vasiharan/wp_plugin_test",
+    "description": "wp plugin test via git + composer",
+    "keywords": ["wordpress", "plugin"],
+    "authors": [
+        {
+            "name": "Vasi",
+            "email": "v@googlemail.com",
+            "homepage": ""
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
